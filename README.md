@@ -8,7 +8,7 @@ To perform election audit of a state of Colorado local congressional election to
 The analysis will have a number of objectives as illustrated below:
  
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received vots.
+2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
