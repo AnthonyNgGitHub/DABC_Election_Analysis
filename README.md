@@ -43,9 +43,19 @@ The analysis of the election show that:
   - Arapahoe had 6.7% of the vote and 24,801 votes
 - The county with the highest turnout (largest number of votes) was:
   - Denver
+- Below screenshot shows the output of the code in the Terminal
  
+  <img src="Output_in_Terminal.PNG"></img>
+
+- Below screenshot shows the output of the code in the Text File
+
+  <img src="Output_in_Text_File.PNG"></img>
+
+
  # Election-Audit Summary:
- 
+ - This code can be modified to accomodate for different levels of elections, for example, the presidential elections. The variables/lists/dictionaries can be changed to reflect names and votes of states instead of counties.
+
+ - This code can also be modified based on how information is provided on the source file. In other elections, the data may not necessarily be presented in the same format and order as shown in the election_results.csv (Ballot ID, then County, then Candidate). Hence, the indexing within the codes to get the County name and Candidate name may have to be updated based on the information presented to us.
  
  
  
